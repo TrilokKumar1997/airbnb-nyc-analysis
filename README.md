@@ -3,7 +3,7 @@
 An interactive dashboard analyzing 48,616 NYC Airbnb listings with a
 machine learning price predictor built with Python and Streamlit.
 
-**Live demo:** YOUR_STREAMLIT_URL
+**Live demo:** https://airbnb-nyc-analysis-m3cel3ikzjxzjbquterka2.streamlit.app/
 
 ## Features
 - Price predictor — enter borough, neighbourhood, room type and get predicted nightly price
@@ -15,6 +15,7 @@ machine learning price predictor built with Python and Streamlit.
 - Tribeca is the most expensive neighbourhood at $330/night average
 - Manhattan entire homes average $250/night vs $90 in the Bronx
 - Neighbourhood and room type are the strongest price predictors
+- Model predicts price within $50 on average (MAE $50.62)
 
 ## Tech stack
 - Python · pandas · scikit-learn · Plotly · Streamlit · SQLite
