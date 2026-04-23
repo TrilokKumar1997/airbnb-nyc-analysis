@@ -7,7 +7,3 @@ data/AB_NYC_2019.csv
 data/listings.csv
 data/listings.csv.gz
 data/airbnb_nyc.db
-output/price_model.pkl
-output/le_borough.pkl
-output/le_neighbourhood.pkl
-output/le_room.pkl
