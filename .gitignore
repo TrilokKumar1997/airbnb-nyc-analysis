@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+.ipynb_checkpoints/
+data/AB_NYC_2019.csv
+data/listings.csv
+data/listings.csv.gz
+data/airbnb_nyc.db
